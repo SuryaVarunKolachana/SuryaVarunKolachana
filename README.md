@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/badge/3rd%20Place-Microsoft%20Hackathon-blueviolet" />
   <img src="https://img.shields.io/badge/Table%20Tennis-Athlete-pink" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=svk2023&label=Profile%20views&color=0e75b6&style=flat" alt="svk2023" />
+  <img src="https://komarev.com/ghpvc/?username=SuryaVarunKolachana&label=Profile%20views&color=0e75b6&style=flat" alt="SuryaVarunKolachana" />
 </p>
 
 ---
 
-> 📁 **Note**: This is a **sample public profile**. For security reasons, my full project portfolio is private — happy to share it upon request!
+> 📁 **Note**: This is a **sample public profile**. For security reasons, my full project portfolio is private — I can share it upon request!
 
 ---
 
@@ -80,12 +80,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svk2023&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svk2023&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryaVarunKolachana&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaVarunKolachana&theme=radical" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svk2023&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaVarunKolachana&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
