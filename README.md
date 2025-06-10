@@ -17,14 +17,24 @@
 
 ## 👨‍💻 About Me
 
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="300" />
-</div>
-
-- 🎯 3rd Place – Microsoft Divergent Hackathon 2025  
-- 💬 Built a GPT-4o productivity suite with encrypted voice UI  
-- 🤝 Team-oriented backend & full-stack developer  
-- 🌐 Passionate about solving real-world problems with AI
+<table>
+  <tr>
+    <td width="320">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="300" />
+    </td>
+    <td>
+      <p>
+        I'm an aspiring software developer passionate about AI, full-stack development, and data-driven innovation.<br />
+        I enjoy building tools that solve real-world problems and thrive in fast-paced, collaborative environments.
+      </p>
+      <ul>
+        <li>🎯 3rd Place – Microsoft Divergent Hackathon 2025</li>
+        <li>💬 Developed GPT-4o-powered encrypted voice UI productivity suite</li>
+        <li>🤝 Strong foundation in backend systems, teamwork, and algorithms</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
