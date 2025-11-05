@@ -2,7 +2,6 @@
 <h3 align="center">CS @ Georgia State | AI & Full-Stack Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Intern%20Seeking-Summer%202025-ff69b4" />
   <img src="https://img.shields.io/badge/3rd%20Place-Microsoft%20Hackathon-blueviolet" />
   <img src="https://img.shields.io/badge/Table%20Tennis-Athlete-pink" />
   <br />
