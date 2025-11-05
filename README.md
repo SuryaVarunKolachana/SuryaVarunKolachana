@@ -56,15 +56,6 @@
 
 ---
 
-## 🚀 Currently Learning
-
-- 🔸 Java + Spring Boot + Microservices  
-- 🔸 Python (Flask - team project experience)  
-- 🔸 Data Structures & Algorithms  
-- 🔸 OCA Java Certification  
-
----
-
 ## 📌 Recent Highlights
 
 - 🏆 **Spirit AI** – Full-stack app with GPT-4o & WebSocket backend  
